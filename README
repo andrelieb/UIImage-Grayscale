@@ -6,5 +6,5 @@ produce a grayscale version of an UIImage, like so:
 
 UIImage *grayscaleImg = [UIImage imageWithContentsOfFile:img] convertToGrayscale]
 
-Please have a look at COPYRIGHTS for original credits and to the comments in 
+Please have a look at COPYRIGHT for original credits and to the comments in 
 the .m file for interesting insights on grayscale conversion.
